@@ -1,19 +1,19 @@
-#Objetivo
+# Objetivo
 Esse projeto pretende criar um script de configuração de usuários para facilitar a configuração de usuários.
 
-Os diretórios criados são:
+### os diretórios criados são:
 
 /publico
 /adm
 /ven
 /sec
 
-os grupos criados são:
+### os grupos criados são:
 GRP_ADM
 GRP_VEN
 GRP_SEC
 
-os usuários criados são:
+### os usuários criados são:
 carlos
 maria
 joao
@@ -25,7 +25,7 @@ amanda
 rogerio
 
 
-As definições do código são as seguintes:
+### as definições do código são as seguintes:
 - Excluir diretórios, arquivos, grupos e usuários criados anteriormente
 - Fazer provisionamento em um arquivo Bash Script
 - O dono dos diretórios é o usuário root
